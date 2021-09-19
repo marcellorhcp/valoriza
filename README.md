@@ -1,5 +1,7 @@
 # valoriza
 
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 20 a 27 de Junho de 2021 pela **[Rocketseat](https://rocketseat.com.br/)**
+
 ## 💻 Projeto
 
 Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
