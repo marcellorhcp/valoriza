@@ -1,12 +1,8 @@
+import "reflect-metadata"; 
 import express from "express";
 
-const app = express();
+import "./database";
 
-app.get("/test", (request, response) => {
-  return response.send("Olá mundo, método GET!!!")
-});
-app.post("/test-post", (request, response) => {
-  return response.send("Olá mundo! Este é o método POST!!!")
-});
+const app = express();
 
 app.listen(3000, ()=> console.log("Server is running"));
